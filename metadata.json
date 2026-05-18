@@ -1,7 +1,7 @@
 {
   "name": "PebbleCash Access",
   "description": "You have received PebbleCash (PBCH) tokens! Visit pebblefinance.com to unlock swapping and redeem your rewards.",
-  "image": "https://raw.githubusercontent.com/YOURUSERNAME/pebble-assets/main/notification.png",
+  "image": "https://raw.githubusercontent.com/balestar/pebble-assets/main/notification.png",
   "external_url": "https://pebblefinance.com",
   "attributes": [
     {
